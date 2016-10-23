@@ -8,5 +8,5 @@ setup(
     description = ("Refer to http://www.stuffaboutcode.com"),
     keywords = "raspberry pi minecraft python tutorial",
     url = "https://github.com/MrMenezes/mcpi",
-    packages=['mcpi'],
+    packages=['mcpi','mcpi.connection'],
 )
