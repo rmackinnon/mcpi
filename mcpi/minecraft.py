@@ -1,4 +1,3 @@
-from connection import Connection
 from vec3 import Vec3
 from event import BlockEvent
 from block import Block
