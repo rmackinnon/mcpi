@@ -1,9 +1,9 @@
-from connection import Connection
-from vec3 import Vec3
-from event import BlockEvent
-from block import Block
+from mcpi.connection import Connection
+from mcpi.vec3 import Vec3
+from mcpi.event import BlockEvent
+from mcpi.block import Block
 import math
-from util import flatten
+from mcpi.util import flatten
 
 """ Minecraft PI low level api v0.1_1
 

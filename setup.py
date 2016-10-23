@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name = "mcpi",
-    version = "1.0.1",
+    version = "1.0.1.1",
     author = "Martin O'Hanlon",
     author_email="sr.tama@outlook.com",
     description = ("Refer to http://www.stuffaboutcode.com"),
