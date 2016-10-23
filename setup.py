@@ -8,5 +8,4 @@ setup(
     keywords = "raspberry pi minecraft python tutorial",
     url = "https://github.com/MrMenezes/mcpi",
     packages=['mcpi'],
-    long_description=read('README.md'),
 )
